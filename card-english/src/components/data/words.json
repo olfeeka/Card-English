@@ -1,0 +1,92 @@
+[
+    {
+    "id": 1,
+    "tag": "emotions",
+    "word": "content",
+    "transcription": "[ ˈkɒntɛnt ]",
+    "translate": "удовлетворенный",
+    "engMeaning": "in a state of peaceful happiness; satisfied with what one has",
+    "ruMeaning": "находящийся в состоянии мирного счастья; довольный тем, что имеется",
+    "img": ""
+},
+{
+    "id": 2,
+    "tag": "emotions",
+    "word": "curious",
+    "transcription": "[ ˈkjʊərɪəs ]",
+    "translate": "любопытный",
+    "engMeaning": "having a strong desire to know or learn something",
+    "ruMeaning": "имеющий сильное желание узнать или научиться чему-либо",
+    "img": ""
+},
+{
+    "id": 3,
+    "tag": "emotions",
+    "word": "hopeful",
+    "transcription": "[ ˈhəʊpfʊl ]",
+    "translate": "надеющийся",
+    "engMeaning": "feeling or inspiring optimism about a future event",
+    "ruMeaning": "чувствующий или вдохновляющий оптимизм относительно будущего события",
+    "img": ""
+},
+{
+    "id": 4,
+    "tag": "fruits",
+    "word": "raspberry",
+    "transcription": "[ ˈrɑːzbɛri ]",
+    "translate": "малина",
+    "engMeaning": "a small, sweet, deep-pinkish fruit",
+    "ruMeaning": "маленький, сладкий, темно-розоватый плод",
+    "img": ""
+},
+{
+    "id": 5,
+    "tag": "fruits",
+    "word": "peach",
+    "transcription": "[ piːtʃ ]",
+    "translate": "персик",
+    "engMeaning": "a soft, juicy, round fruit with downy yellow or whitish flesh and a pinkish-orange skin",
+    "ruMeaning": "мягкий, сочный, круглый фрукт с пушистой желтой или беловатой мякотью и розовато-оранжевой кожурой",
+    "img": ""
+},
+{
+    "id": 6,
+    "tag": "fruits",
+    "word": "grape",
+    "transcription": "[ ɡreɪp ]",
+    "translate": "виноград",
+    "engMeaning": "a berry, typically green or purple, occurring in clusters on a grapevine, eaten as fruit, used in making wine, or dried as raisins",
+    "ruMeaning": "ягода, обычно зеленого или фиолетового цвета, собранная в кистях на виноградной лозе",
+    "img": ""
+},
+{
+    "id": 7,
+    "tag": "professions",
+    "word": "waiter",
+    "transcription": "[ ˈweɪtər ]",
+    "translate": "официант",
+    "engMeaning": "a specialist working in the catering industry and serving customers who come to a restaurant, cafe or pizzeria",
+    "ruMeaning": "специалист, работающий в сфере общественного питания и обслуживающий клиентов, пришедших в ресторан, кафе или пиццерию",
+    "img": ""
+},
+{
+    "id": 8,
+    "tag": "professions",
+    "word": "gardener",
+    "transcription": "[ ˈɡɑːrdnər ]",
+    "translate": "садовник",
+    "engMeaning": "a specialist who is professionally engaged in planting and caring for plants",
+    "ruMeaning": "специалист, который профессионально занимается посадкой растений и уходом за ними",
+    "img": ""
+},
+{
+    "id": 9,
+    "tag": "professions",
+    "word": "judge",
+    "transcription": "[ dʒʌdʒ ]",
+    "translate": "судья",
+    "engMeaning": "a person who presides over the trial either alone or as a member of a panel of judges",
+    "ruMeaning": "лицо, которое председательствует в судебном разбирательстве либо самостоятельно, либо в составе коллегии судей",
+    "img": ""
+}
+]

@@ -1,0 +1,35 @@
+.App {
+  margin: 0 auto;
+  padding: 0 15px;
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header__logo img {
+  max-width: 33%;
+}
+.header__logo {
+  display: flex;
+  gap: 10px;
+}
+.header__list {
+  display: flex;
+  gap: 15px;
+}
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main__desc {
+  font-size: 34px;
+  font-weight: bold;
+}
+.main img {
+  max-width: 55%;
+}
