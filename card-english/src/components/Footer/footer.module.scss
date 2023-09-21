@@ -1,0 +1,14 @@
+@import "../../styles/vars.scss";
+
+.footer {
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  gap: 5px;
+  padding-top: 15px;
+}
+.text {
+  font-size: 14px;
+  font-weight: bold;
+  color: $text-color;
+}

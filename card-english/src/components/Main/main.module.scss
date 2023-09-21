@@ -1,0 +1,16 @@
+@import "../../styles/vars.scss";
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px;
+  img {
+    max-width: 60%;
+  }
+}
+.desc {
+  font-size: 50px;
+  font-weight: bold;
+  color: $text-color;
+}

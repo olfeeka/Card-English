@@ -1,12 +1,11 @@
-import img from '../../images/main_img.jpg';
+import img from "../../images/main_img.jpg";
+import st from "./main.module.scss";
 
-function Main() {
-    return (
-        <main className="main">
-            <p className="main__desc">Discover the magic of learning with cards</p>
-            <img src={img} alt="" />
-        </main>
-    );
+export default function Main() {
+  return (
+    <main className={st.main}>
+      <p className={st.desc}>Discover the magic of learning with cards</p>
+      <img src={img} alt="" />
+    </main>
+  );
 }
-
-export default Main;

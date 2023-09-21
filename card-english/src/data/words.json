@@ -88,5 +88,115 @@
     "engMeaning": "a person who presides over the trial either alone or as a member of a panel of judges",
     "ruMeaning": "лицо, которое председательствует в судебном разбирательстве либо самостоятельно, либо в составе коллегии судей",
     "img": ""
+},
+{
+    "id": 10,
+    "tag": "body",
+    "word": "hand",
+    "transcription": "[ hænd ]",
+    "translate": "рука",
+    "engMeaning": "an organ of the musculoskeletal system, one of the most important parts of the body",
+    "ruMeaning": "орган опорно-двигательного аппарата, одна из главнейших частей тела",
+    "img": ""
+},
+{
+    "id": 11,
+    "tag": "body",
+    "word": "heel",
+    "transcription": "[ hiːl ]",
+    "translate": "пятка",
+    "engMeaning": "the convex part of the body at the back of the foot",
+    "ruMeaning": "выпуклая часть тела на задней стороне ступни",
+    "img": ""
+},
+{
+    "id": 12,
+    "tag": "body",
+    "word": "waist",
+    "transcription": "[ weɪst ]",
+    "translate": "талия",
+    "engMeaning": "the narrow part in the middle of your body between your chest and your hips",
+    "ruMeaning": "узкая часть в середине вашего тела между грудью и бедрами",
+    "img": ""
+},
+{
+  "id": 13,
+    "tag": "drinks",
+    "word": "tea",
+    "transcription": "[ tiː ]",
+    "translate": "чай",
+    "engMeaning": "a hot drink made by pouring water onto dried leaves from the tea bush",
+    "ruMeaning": "горячий напиток, приготовленный путем наливания воды на сушеные листья чайного куста",
+    "img": ""
+},
+{
+  "id": 14,
+    "tag": "drinks",
+    "word": "wine",
+    "transcription": "[ waɪn ]",
+    "translate": "вино",
+    "engMeaning": "an alcoholic drink made from the juice of grapes",
+    "ruMeaning": "алкогольный напиток, получаемый из сока винограда",
+    "img": ""
+},
+{
+    "id": 15,
+    "tag": "drinks",
+    "word": "juice",
+    "transcription": "[ dʒuːs ]",
+    "translate": "сок",
+    "engMeaning": "the liquid that comes from fruit or vegetables, used as a drink",
+    "ruMeaning": "жидкость, получаемая из фруктов или овощей, используемая в качестве напитка",
+    "img": ""
+},
+{
+    "id": 16,
+    "tag": "cosmetics",
+    "word": "blusher",
+    "transcription": "[ ˈblʌʃər ]",
+    "translate": "румяна",
+    "engMeaning": "a type of makeup used to give color to the cheeks",
+    "ruMeaning": "вид косметики, используемый для придания румянца щекам",
+    "img": ""
+},
+{
+    "id": 17,
+    "tag": "cosmetics",
+    "word": "mascara",
+    "transcription": "[ mæsˈkɑːrə ]",
+    "translate": "тушь для ресниц",
+    "engMeaning": "a cosmetic substance for darkening, lengthening, curling, coloring, and thickening the eyelashes",
+    "ruMeaning": "вид косметики для подкрашивания, удлинения, завивки, окрашивания и утолщения ресниц",
+    "img": ""
+},
+{
+    "id": 18,
+    "tag": "cosmetics",
+    "word": "lipstick",
+    "transcription": "[ ˈlɪpstɪk ]",
+    "translate": "губная помада",
+    "engMeaning": "a cosmetic for coloring the lips, usually in stick form",
+    "ruMeaning": "косметическое средство для окрашивания губ, обычно в виде стика",
+    "img": ""
+},
+{
+    "id": 19,
+    "tag": "emotions",
+    "word": "sleepy",
+    "transcription": "[ ˈsliːpi ]",
+    "translate": "сонный",
+    "engMeaning": "feeling tired, wanting to sleep",
+    "ruMeaning": "ощущение усталости, желание спать",
+    "img": ""
+},
+{
+    "id": 20,
+    "tag": "emotions",
+    "word": "happy",
+    "transcription": "[ ˈhæpi ]",
+    "translate": "счастливый",
+    "engMeaning": "feeling or showing pleasure or contentment",
+    "ruMeaning": "чувствующий или проявляющий удовольствие или довольство",
+    "img": ""
 }
 ]

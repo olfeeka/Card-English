@@ -1,22 +1,22 @@
 import logo from '../../images/header_logo.png';
+import st from './header.module.scss';
 
-function Header() {
+export default function Header() {
     return (
-        <header className="header">
-            <div className="header__logo">
+    <header className={st.header}>
+        <div className={st.logo}>
+            <a href="#">
                 <img src={logo} alt="logo" />
-                <p className="header__title">Card English</p>
-            </div>
-            <nav className="header__nav">
-                <ul className="header__list">
-                    <li className="header__item">Home</li>
-                    <li className="header__item">Study</li>
-                    <li className="header__item">Dictionary</li>
-                </ul>
-            </nav>
-        </header>
+            </a>
+            <p className={st.title}>Card English</p>
+        </div>
+        <nav>
+            <ul className={st.list}>
+                <li className={st.item}><a href="#">Home</a></li>
+                <li className={st.item}><a href="#">Study</a></li>
+                <li className={st.item}><a href="#">Dictionary</a></li>
+            </ul>
+        </nav>
+    </header>
     );
 }
-
-export default Header;
-
