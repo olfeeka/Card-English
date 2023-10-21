@@ -5,7 +5,9 @@
   justify-content: center;
   justify-items: center;
   gap: 5px;
-  padding-top: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 .text {
   font-size: 14px;
