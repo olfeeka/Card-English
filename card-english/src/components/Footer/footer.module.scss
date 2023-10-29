@@ -5,12 +5,13 @@
   justify-content: center;
   justify-items: center;
   gap: 5px;
-  position: fixed;
+  padding: 5px 0;
+  position: sticky;
   bottom: 0;
-  width: 100%;
+  background-color: #fff;
 }
 .text {
   font-size: 14px;
   font-weight: bold;
-  color: $text-color;
+  color: $blue-color;
 }

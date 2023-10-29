@@ -1,0 +1,17 @@
+@import "../../styles/vars.scss";
+
+.item {
+  font-weight: bold;
+  color: $blue-color;
+  padding: 10px 0;
+  &:focus {
+    background-color: $blue-color;
+    border-radius: 5px;
+    color: #fff;
+  }
+}
+.active {
+  background-color: $blue-color;
+  border-radius: 5px;
+  color: #fff;
+}

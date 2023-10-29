@@ -4,9 +4,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 10px;
+  padding: 10px 0;
   position: sticky;
   top: 0;
+  background-color: #fff;
   nav {
     display: flex;
     gap: 15px;
@@ -21,18 +22,5 @@
 }
 .title {
   font-weight: bold;
-  color: $text-color;
-}
-.item {
-  font-weight: bold;
-  color: $text-color;
-  padding: 10px 0;
-  &:hover {
-    transform: scale(1.2);
-  }
-  &:focus {
-    background-color: $text-color;
-    border-radius: 5px;
-    color: #fff;
-  }
+  color: $blue-color;
 }

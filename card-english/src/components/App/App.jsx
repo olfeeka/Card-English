@@ -3,7 +3,7 @@ import Header from '../Header/Header';
 import Home from "../Home/Home";
 import Footer from "../Footer/Footer";
 import CardsList from "../CardsList/CardsList";
-import WordsList from "../WordsList/WordsList";
+import WordsTable from "../WordsTable/WordsTable";
 import Error from "../Error/Error";
 import words from "../../data/words.json";
 import "../../styles/App.scss";
@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/study" element={<CardsList arr={words} />} />
-        <Route path="/dictionary" element={<WordsList />} />
+        <Route path="/dictionary" element={<WordsTable />} />
         <Route path="*" element={<Error />} />
       </Routes>
       
