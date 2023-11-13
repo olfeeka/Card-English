@@ -1,14 +1,14 @@
 import { useEffect, useRef, useState } from "react";
 import st from "./card.module.scss";
 
-export default function Card(props) {
+export default function Card({word, onTranslateClick}) {
   const [showTranslation, setShowTranslation] = useState(false);
   const btnRef = useRef(null);
 
   const handleClick = () => {
     setShowTranslation(!showTranslation);
-    if (!showTranslation) {
-      props.onTranslateClick();
+    if (!showTranslation && onTranslateClick) {
+      onTranslateClick();
     }
   };
 
@@ -17,15 +17,15 @@ export default function Card(props) {
     if (btnRef.current) {
       btnRef.current.focus();
     }
-  }, [props.card]);
+  }, [word]);
 
   return (
     <div className={st.item}>
-      <p className={st.word}>{props.card.word}</p>
-      <p className={st.transcription}>{props.card.transcription}</p>
+      <p className={st.word}>{word.english}</p>
+      <p className={st.transcription}>{word.transcription}</p>
 
       {showTranslation ? (
-        <p className={st.translate}>{props.card.translate}</p>
+        <p className={st.translate}>{word.russian}</p>
       ) : (
         <button
           type="button"
