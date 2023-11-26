@@ -1,4 +1,5 @@
 import img from "../../images/main_img.jpg";
+import Loading from "../Loading/Loading";
 import st from "./home.module.scss";
 
 export default function Main() {
