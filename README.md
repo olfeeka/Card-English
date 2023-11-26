@@ -1,6 +1,6 @@
 # Card English - приложение для изучения английских слов
 
-### Ссылка: https://olfeeka.github.io/Card-English/
+### Ссылка: 
 
 ### Используемые технологии:
 * React
