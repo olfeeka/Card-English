@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Card-English/static/css/main.2f62e140.css",
+    "main.js": "/Card-English/static/js/main.11344c21.js",
+    "static/media/error_img.jpg": "/Card-English/static/media/error_img.ad9c4f7bf408a63f52a6.jpg",
+    "static/media/main_img.jpg": "/Card-English/static/media/main_img.7b93b9f4362ec95c53ca.jpg",
+    "static/media/nunito-v26-cyrillic_latin-regular.woff2": "/Card-English/static/media/nunito-v26-cyrillic_latin-regular.77c93a40ae4ee761b88e.woff2",
+    "index.html": "/Card-English/index.html",
+    "main.2f62e140.css.map": "/Card-English/static/css/main.2f62e140.css.map",
+    "main.11344c21.js.map": "/Card-English/static/js/main.11344c21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f62e140.css",
+    "static/js/main.11344c21.js"
+  ]
+}
